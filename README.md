@@ -29,21 +29,24 @@ A continuación, una vista previa del funcionamiento del programa:
 - CSS
 - JavaScript
 
-## Instalación
+## ⚙️ Instalación
+
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/AnDev-000/challenge-amigo-secreto.git
     ```
 2. Abre el proyecto en tu editor de código preferido (por ejemplo, Visual Studio Code).
 3. Abre el archivo `index.html` en tu navegador para ver la aplicación en acción.
 
 
-## Problemas comunes y soluciones
+## ⚠️ Problemas comunes y soluciones
+
 - **Problema**: No aparece la lista después de agregar un amigo.
   - **Solución**: Asegúrate de que el campo de texto no esté vacío al agregar un nombre.
 
 
-## Contribuciones
+## 👥 Contribuciones
+
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 1. Haz un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b nueva-rama`).
@@ -62,10 +65,13 @@ Está bajo la licencia MIT, lo que permite su uso, modificación y distribución
 
 AnDev
 
+## 🌐 Ver la aplicación en acción
+
+Puedes ver la aplicación desplegada en línea a través de GitHub Pages en el siguiente enlace:
+
+👉 [Ver la aplicación en acción](https://AnDev-000.github.io/challenge-amigo-secreto/)
 
 
 ## 📜 Certificación
 
 > Este proyecto corresponde a la conclusión del curso "Practicando lógica de programación: Challenge amigo secreto", de "Oracle One Next Education / Alura Latam". El certificado que valida la finalización exitosa del curso se encuentra en: [`certificado/`](certificado/).
-
-
