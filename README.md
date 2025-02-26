@@ -19,7 +19,7 @@ A continuación, una vista previa del funcionamiento del programa:
 ## 📝 Instrucciones de uso
 
 1. Ingresa los nombres de los amigos en el campo de texto.
-2. Haz clic en "Agregar amigo" para añadirlo al sorteo.
+2. Haz clic en "Añadir" para añadirlo al sorteo.
 3. Haz clic en "Sortear amigo" para elegir aleatoriamente un amigo secreto.
 4. Los resultados se mostrarán en la pantalla.
 
