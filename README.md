@@ -12,7 +12,7 @@ Este proyecto es una aplicación web que permite agregar nombres a una lista y r
 
 ## 🎥 Demostración
 
-A continuación una demostracion del funcionamiento del programa:
+A continuación, una vista previa del funcionamiento del programa:
 
 ![Ejemplo del sorteo](assets/videos/ejemplo-sorteo.gif)
 
@@ -53,18 +53,19 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## 📜 Licencia
 
-Este proyecto fue desarrollado como parte del curso Oracle One sobre desarrollo web y está disponible para uso educativo.  
+Este proyecto fue desarrollado como parte del curso Oracle One next education sobre desarrollo web y está disponible para uso educativo.  
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
+Está bajo la licencia MIT, lo que permite su uso, modificación y distribución. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 
 ## 👨‍💻 Autor
 
 AnDev
 
+
+
 ## 📜 Certificación
 
-Este proyecto fue desarrollado como parte del curso de Oracle One sobre desarrollo web.  
-Se ha completado con éxito y se ha obtenido la certificación correspondiente.  
-El certificado se encuentra en la carpeta [`certificado/`](certificado/).
+> Este proyecto corresponde a la conclusión del curso "Practicando lógica de programación: Challenge amigo secreto", de "Oracle One Next Education / Alura Latam". El certificado que valida la finalización exitosa del curso se encuentra en: [`certificado/`](certificado/).
+
+
