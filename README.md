@@ -23,6 +23,6 @@ AnDev
 
 ## Certificación
 
-Este proyecto fue desarrollado como parte del curso de Oracle sobre desarrollo web.  
+Este proyecto fue desarrollado como parte del curso de Oracle One sobre desarrollo web.  
 Se ha completado con éxito y se ha obtenido la certificación correspondiente.  
 El certificado se encuentra en la carpeta [`certificado/`](certificado/).
