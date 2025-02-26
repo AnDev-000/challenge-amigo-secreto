@@ -20,3 +20,9 @@ Este proyecto es una aplicación web para realizar un sorteo de "Amigo Secreto".
 
 ## Autor
 AnDev
+
+## Certificación
+
+Este proyecto fue desarrollado como parte del curso de Oracle sobre desarrollo web.  
+Se ha completado con éxito y se ha obtenido la certificación correspondiente.  
+El certificado se encuentra en la carpeta [`certificado/`](certificado/).
